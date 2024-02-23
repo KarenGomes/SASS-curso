@@ -53,6 +53,10 @@ header {
                 outline: none;
                 font-size: 1.5rem;
 
+                &:hover {
+                    background: variaveis.$cor-secundaria;
+                }
+
             }
         }
         .img-home {
